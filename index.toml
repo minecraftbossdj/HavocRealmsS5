@@ -9,6 +9,11 @@ file = "kubejs/config/common.properties"
 hash = "37b871b86527928e9db650369ff900600afb59250308c62d394a2b7c895824cf"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "3ad8aaa08c6907b85dcd5c861cc1efcf5b5a97e84c5f66caf6b1e7a5d37f679b"
+metafile = true
+
+[[files]]
 file = "mods/AdvancedPeripherals-1.20.1-0.7.44r.jar"
 hash = "74e46af711325fb3e2003753cf58045dbbf3f3ce87195369a32fc786f238a423"
 
@@ -253,18 +258,13 @@ hash = "0bbb0d5c211ddf6fd76fd602167b1f012dbfe56e72c5f2568ec1089cd930ece0"
 metafile = true
 
 [[files]]
-file = "mods/create-design-n-decor.pw.toml"
-hash = "5de85151d1381261bb6e0246f599b7d3d7b9e55414bff2ea82c19b75c37de852"
-metafile = true
-
-[[files]]
 file = "mods/create-diesel-generators.pw.toml"
 hash = "55e774a83edf2998fd3cb94a5a8e848648e2ea102d4cd689924b56424ff93f33"
 metafile = true
 
 [[files]]
-file = "mods/create-dreams-desires.pw.toml"
-hash = "aa383802afb154b1cf46efff75fc581f73a81f45db28592f264a95c4fd6400a7"
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "23dc3517bb479f4a7275bedc75ea45362aef0ff1b240d8cd0fde2fd152032cdf"
 metafile = true
 
 [[files]]
@@ -352,6 +352,10 @@ hash = "d8f52da66536863a24f44cc7c6b9c8c9000d67e75c566f87d1b42e3842af1f32"
 metafile = true
 
 [[files]]
+file = "mods/design_decor-0.4.0b-1.20.1.jar"
+hash = "537a723c6a02a748372a800e20c02892f0d0fcbd39c12242b6bf8f5fbf14c55a"
+
+[[files]]
 file = "mods/destroy-1.20.1-0.1.1-snapshot-i+0.jar"
 hash = "03c5131c04dc2e3f368bb998d00da24c8bc059a3fa27fddbb3601a9dc77cafca"
 
@@ -387,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchanted-arsenal.pw.toml"
-hash = "851e796d967454f2a650fb1491b6aa545c9fc9bbf4695ea0fe3a9ff44b58ece0"
+hash = "c478ba740218e68222019013989751bd018b844b9352870d57d25679f7e7b73f"
 metafile = true
 
 [[files]]
@@ -636,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e0e0464488e8ab9f77757a73a524b846bd95cb68dfff58e0badc3556bbbc283e"
+hash = "98a08f696a7e276361538c59d96fde9bdb07e15032bb71676849870764f29b38"
 metafile = true
 
 [[files]]
@@ -650,14 +654,12 @@ hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
 metafile = true
 
 [[files]]
-file = "mods/petrolpark-library.pw.toml"
-hash = "b99e9eaa47d01c04aab00731d22572e30e19a37267b90cb03349c10fa9970b03"
-metafile = true
+file = "mods/petrolpark-1.20.1-1.4.2-all.jar"
+hash = "07f57a948065f60477c0666e7d33dfa147046f9762cb18890652e9e04c57c81d"
 
 [[files]]
-file = "mods/petrols-parts.pw.toml"
-hash = "011b50dc8a193c1452ecb520bd19ebfc7145051e8d12edd22c7518c2dedce834"
-metafile = true
+file = "mods/petrolsparts-1.20.1-1.1.5.jar"
+hash = "733399e6f17f0935f2cd5b1f05eae52821ee7083bc19a6a965ce4b648c4a2a8c"
 
 [[files]]
 file = "mods/placebo.pw.toml"
@@ -702,11 +704,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "ca4411ac6d8a9a892948bb63cd0ba52ae5523ca5e257632d6ae8c933b660c5ee"
-metafile = true
-
-[[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "8e524582c8e8f6d07f0cd7f912befedf0a0de5248914c82bba92b501c45e4250"
 metafile = true
 
 [[files]]
