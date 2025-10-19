@@ -3,8 +3,8 @@ filename = "vlib-1.20.1-0.0.15-alpha+forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "32c2676d2f5e04277e262346ac7bd0bea22d123288352c5eeb1d14f1931261dcf413714489205d54421c3f7671a833849f5aca4785bd0eea3a85cee94f140fe2"
+hash-format = "sha256"
+hash = "7b62b3e537a648b2983857ec41bdd000b461993d621a042423a2ccdc4ed3195e"
 mode = "metadata:curseforge"
 
 [update]

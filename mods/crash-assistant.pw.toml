@@ -3,8 +3,8 @@ filename = "CrashAssistant-forge-1.19-1.20.1-1.10.12.jar"
 side = "client"
 
 [download]
-hash-format = "sha512"
-hash = "e3a6b4c3cb22b18aa2ab630695dba8c225557c30cd517008989c387812b2b60aec8b8be61c3db6e34db44e0d7221ff7d5cceb969c765b24caa95ac2e0baf2202"
+hash-format = "sha256"
+hash = "5822e65422ca31994593d39a4d7eb5d735907f6873ed819e22b3638ab6d5d0de"
 mode = "metadata:curseforge"
 
 [update]

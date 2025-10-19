@@ -3,8 +3,8 @@ filename = "mekanism_turrets-1.2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "9e5c82f28ec5379108a776a2821a1e3a0ce346487f36c0961cb92c70ca6228a6342343e472d337a28d8bb579065ae88a73d25c9e58e2dd957d42f190b861682b"
+hash-format = "sha256"
+hash = "f978f16ce20721c7b9fac575b83ce17369a720f7337b9acc36fa76c74d503eb4"
 mode = "metadata:curseforge"
 
 [update]

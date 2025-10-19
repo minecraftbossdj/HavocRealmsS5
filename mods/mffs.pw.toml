@@ -3,8 +3,8 @@ filename = "mffs-5.1.19-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "ab80ba86d07bf6658a313374c9809fd3185ea276d664eb385954eb57b9b67661799ec544948d275afa4405c31e0afa4d9842902730c1729306faaad18a48c190"
+hash-format = "sha256"
+hash = "667068510e040276a408efee292a48a76d0aaa8acf87382032b35cd3bb7ec50f"
 mode = "metadata:curseforge"
 
 [update]

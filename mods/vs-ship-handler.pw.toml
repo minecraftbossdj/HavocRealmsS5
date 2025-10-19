@@ -3,8 +3,8 @@ filename = "shiphandler-1.20.1-1.1.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "500e3ef261db244e0723ebd40d8c79eccbb14b00fe5fd4b5ab79f4400a681df0e8cc0849af119e2c7319891b27a76194964f37499283b34bb9f9ffa71fa3854e"
+hash-format = "sha256"
+hash = "06fc28f9f55c8861078d4f4717fd354f9b86a26c2253e4413284c5f1de17b0f9"
 mode = "metadata:curseforge"
 
 [update]

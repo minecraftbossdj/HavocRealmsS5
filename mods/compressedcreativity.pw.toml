@@ -3,8 +3,8 @@ filename = "compressedcreativity-1.20.1-0.1.8.c-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha512"
-hash = "bc77efaa1fffdae9cf4eaa16be1e0d16b31442febc6afd64d683a85a1576107fd235a58afd4cf680a694cfa5c5d2d17e3b490121c86bb91e91b377b057d7af40"
+hash-format = "sha256"
+hash = "6253795c8a87b224c273477d01f6c4b70c3285a7edc5b791d48a657fcaade47b"
 mode = "metadata:curseforge"
 
 [update]

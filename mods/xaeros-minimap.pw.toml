@@ -3,8 +3,8 @@ filename = "Xaeros_Minimap_25.2.10_Forge_1.20.jar"
 side = "client"
 
 [download]
-hash-format = "sha512"
-hash = "936d2608d74c9a4d702efce51e0197f19f947997af768cb558f4cc5323ea4c5f12ee11b519df4071bdbc8c2aca8caa1baa18f702ef32c24bc4ea78fdbac483b2"
+hash-format = "sha256"
+hash = "2b5de085275d658e0445d783dbbcf9848c00aab8ac18cc2f664a62f44f78a18a"
 mode = "metadata:curseforge"
 
 [update]
