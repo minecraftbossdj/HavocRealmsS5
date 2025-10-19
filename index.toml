@@ -356,10 +356,6 @@ file = "mods/design_decor-0.4.0b-1.20.1.jar"
 hash = "537a723c6a02a748372a800e20c02892f0d0fcbd39c12242b6bf8f5fbf14c55a"
 
 [[files]]
-file = "mods/destroy-1.20.1-0.1.1-snapshot-i+0.jar"
-hash = "03c5131c04dc2e3f368bb998d00da24c8bc059a3fa27fddbb3601a9dc77cafca"
-
-[[files]]
 file = "mods/digital-items-3.pw.toml"
 hash = "ae7d6da475e38e2b33265026d63404d6992f5ad5d04cf96d19ed89f0d2c4ea86"
 metafile = true
@@ -451,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "999b83df794a4241b549a3cf2001d755eb5cf1dcefbd53abc80b7720269faf90"
+hash = "d1a80068e60ad005fe9914290934e7850f09cf4551ca50abc00d481a972b0aaa"
 metafile = true
 
 [[files]]
@@ -652,14 +648,6 @@ metafile = true
 file = "mods/patchouli.pw.toml"
 hash = "feab20b1e3b9c53cb3c48da4680db0b40fe0ef1803f26184f49e06bacb593950"
 metafile = true
-
-[[files]]
-file = "mods/petrolpark-1.20.1-1.4.2-all.jar"
-hash = "07f57a948065f60477c0666e7d33dfa147046f9762cb18890652e9e04c57c81d"
-
-[[files]]
-file = "mods/petrolsparts-1.20.1-1.1.5.jar"
-hash = "733399e6f17f0935f2cd5b1f05eae52821ee7083bc19a6a965ce4b648c4a2a8c"
 
 [[files]]
 file = "mods/placebo.pw.toml"
