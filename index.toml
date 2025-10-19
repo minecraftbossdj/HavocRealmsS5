@@ -6,7 +6,7 @@ hash = "5d36459b255a51f0c00f499ef77a4a625ae6240b16516cc780bf753211aa76ad"
 
 [[files]]
 file = "kubejs/config/common.properties"
-hash = "37b871b86527928e9db650369ff900600afb59250308c62d394a2b7c895824cf"
+hash = "43193d0ec50bb17170208ec739d356eeb18114c1da19374ca2e52b8752229d04"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -843,7 +843,7 @@ hash = "1f75d0ba2c22ff9c74b7a477d2fc15ab42a1a8f4fe5733a34fa7ce52fe82d444"
 
 [[files]]
 file = "tacz/tacz-pre.toml"
-hash = "380a3105e0739f6bbae202352d29d68a7a1e88bab8912c95cd9204492c7d48ae"
+hash = "410ba74dc6cb6c070db25c8fcfc0657b02a0523a3a25722da8e6f4310215d133"
 
 [[files]]
 file = "tacz/tacz_default_gun/README.txt"
