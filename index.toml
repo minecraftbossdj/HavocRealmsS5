@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "af81664fa766bb0cb2f4a383f2464e38300c28ebefcb0b87a53c9bf22873eaca"
+hash = "a41a3cf3204c48e0a0b48acbad66ff4dbd71a94942cb4955973a7059b686aa05"
 metafile = true
 
 [[files]]
@@ -416,7 +416,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "6c2e692bfb22ec269765a71c66d07f56ccc2e639fd1e257875d03fa6067e1129"
+hash = "347950ea8afd47fcefe4dfae009a077376785c7f06bf43c67f9887159630458a"
 metafile = true
 
 [[files]]

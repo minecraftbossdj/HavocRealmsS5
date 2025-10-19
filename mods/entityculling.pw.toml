@@ -1,18 +1,18 @@
-name = "Entity Culling Fabric/Forge"
+name = "Entity Culling"
 filename = "entityculling-forge-1.9.1-mc1.20.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "3f87b5f6c80f2e44793de375779fe7851eb02999"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/lQ7VoJbj/entityculling-forge-1.9.1-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "8b343b2a5e560633e3ccfc4b3dd6dfc69f06d82c84c35c722814218833cc81d156583b5321fb23dc1841701974825cbea053efb08146ce57c9b60a73cdbc31c9"
 
 [update]
-[update.curseforge]
-file-id = 7110590
-project-id = 448233
+[update.modrinth]
+mod-id = "NNAgCjsB"
+version = "lQ7VoJbj"
 
 [option]
 optional = true
 default = true
-description = "Entity culling mod, cant really explain this ngl."
+description = "culls entities offscreen or not in vision."
