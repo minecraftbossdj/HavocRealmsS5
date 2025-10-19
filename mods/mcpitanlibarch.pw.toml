@@ -1,0 +1,13 @@
+name = "MCPitanLib"
+filename = "mcpitanlib-3.3.9-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8324a6e4fc32d1eb615339a7fdd2a617fd7a314d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6758288
+project-id = 682213

@@ -1,0 +1,13 @@
+name = "ModList Command"
+filename = "modscmd-forge-1.0.2.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "265eb2fa1bedc72d9a002c0af83063c23d48702f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6617028
+project-id = 1103376

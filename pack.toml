@@ -1,0 +1,13 @@
+name = "Havoc Realms S5"
+author = "minecraftbossdj"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "751e7c939609e2906ce597f3882328cf024720e405e6e2ad729a5ae2f45d3416"
+
+[versions]
+forge = "47.4.4"
+minecraft = "1.20.1"
