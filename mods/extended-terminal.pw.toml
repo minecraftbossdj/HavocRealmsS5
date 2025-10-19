@@ -3,8 +3,8 @@ filename = "ExtendedTerminal-1.20.1-0.1.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "92480057c7318f19d1fe4f932227daa727ee4bb4"
+hash-format = "sha512"
+hash = "c0328955ada1a908c381b2736d2c64780f7ca0eb485a74f4408b145fae9ccdb3612b68440c2b5ea1caee20cf00e2bba67df6ac95dfa24a6f3fd22d35ea67a3dc"
 mode = "metadata:curseforge"
 
 [update]

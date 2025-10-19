@@ -3,8 +3,8 @@ filename = "dynamic-fps-3.9.5+minecraft-1.20.0-forge.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "a034d1752abd84dc188852dac1ef87fb8ab2247a"
+hash-format = "sha512"
+hash = "8c7e44d51941e839e569fa98339d3a7cdf2f41f29cb8f498421a88a799db2ae27963d0ca8be7a9670142e0c6165b633370731565187c710337da709d5fc72963"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,5 @@ project-id = 335493
 
 [option]
 optional = true
-default = true
 description = "Dynamic fps mod, lowers your fps when not focused on minecraft."
+default = true

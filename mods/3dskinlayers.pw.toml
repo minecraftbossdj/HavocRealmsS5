@@ -14,5 +14,5 @@ version = "BBnR3V86"
 
 [option]
 optional = true
-default = true
 description = "makes your 2nd skin layer 3d"
+default = true

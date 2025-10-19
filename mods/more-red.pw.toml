@@ -3,8 +3,8 @@ filename = "morered-1.20.1-4.0.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1e49a2fca02e1059bf6c94f6292463ed6e4f6122"
+hash-format = "sha512"
+hash = "f7597a4cb98d40bfb9bc344a1389db6a498b339ae10cdc710a3ab83ed993788cc332b899f3876b0dec79e12c57dd93fb72b950c240cae4ac818f68d7fa48f48f"
 mode = "metadata:curseforge"
 
 [update]

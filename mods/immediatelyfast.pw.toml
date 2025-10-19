@@ -3,8 +3,8 @@ filename = "ImmediatelyFast-Forge-1.5.2+1.20.4.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "2eeca5deb063ed49bb9c6be8b162ca6270202239"
+hash-format = "sha512"
+hash = "648cd5c451f8e5b4c7404179b75d4044aa14501c832a38e09877de74902e2ce3156af1cb936c91b48cd6210d1e576f0808142ca24a0d291990fdf245ff2da993"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,5 @@ project-id = 686911
 
 [option]
 optional = true
-default = true
 description = "Speed up immediate mode rendering in minecraft"
+default = true

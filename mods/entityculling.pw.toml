@@ -14,5 +14,5 @@ version = "lQ7VoJbj"
 
 [option]
 optional = true
-default = true
 description = "culls entities offscreen or not in vision."
+default = true

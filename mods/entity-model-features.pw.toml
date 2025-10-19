@@ -3,8 +3,8 @@ filename = "entity_model_features_1.20.1-forge-3.0.1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "7d1b1b7e07bafce1f6e79e4f3bcc8737dc765fe4"
+hash-format = "sha512"
+hash = "7c862cd0cb86d83083a5dc8d1e66c813b30f7c4ae95d4c90f522d1562d48915ae9aa2ff7f3be4ce4165dae0855b10b53c3345d2edb079d26a1f668100bd54beb"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,5 @@ project-id = 844662
 
 [option]
 optional = true
-default = true
 description = "Entity model features, from optifine"
+default = true

@@ -14,5 +14,5 @@ version = "6prDAT8r"
 
 [option]
 optional = true
-default = true
 description = "Adds some much needed animations."
+default = true

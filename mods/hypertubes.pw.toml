@@ -3,8 +3,8 @@ filename = "create_hypertube-0.2.5-CREATE-0.5.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "36525e109ab4d62039575e5c5d1ef4c00bd68687"
+hash-format = "sha512"
+hash = "7565852fe5234379123d74fb1e737e9db6f8dda6dacd28f374cfabe6bf722e8da8e7911e14b6b413c319573dda282f9175dd180ad0deb5d7e69a8ff44549276b"
 mode = "metadata:curseforge"
 
 [update]

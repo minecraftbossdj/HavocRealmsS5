@@ -14,5 +14,5 @@ version = "x0sJ9PeR"
 
 [option]
 optional = true
-default = true
 description = "makes sound physics better."
+default = true

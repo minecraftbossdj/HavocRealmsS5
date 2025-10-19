@@ -3,8 +3,8 @@ filename = "ApothicCurios-1.20.1-1.0.3e.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "77427f10fdce834ce1f54492556f7a10c2f41a03"
+hash-format = "sha512"
+hash = "b427590191b7badb19de6d485f7f878124fe8291a9c1a6af1085a10268a3f40b391cac8b9a187a568103d2b882215676c607f34ae20c605467172c2026f41b9d"
 mode = "metadata:curseforge"
 
 [update]

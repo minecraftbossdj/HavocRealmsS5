@@ -3,8 +3,8 @@ filename = "mcpitanlib-3.3.9-1.20.1-forge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8324a6e4fc32d1eb615339a7fdd2a617fd7a314d"
+hash-format = "sha512"
+hash = "4f351220edc96c8491ce5de612d771c4be1ba8fa187dec2fac36fb26dc1e956691cb767767fabeb854efbf20dc12e1c935e9bea4dab64da1be5ffc7c175d2954"
 mode = "metadata:curseforge"
 
 [update]

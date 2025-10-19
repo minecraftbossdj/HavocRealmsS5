@@ -3,8 +3,8 @@ filename = "modscmd-forge-1.0.2.jar"
 side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "265eb2fa1bedc72d9a002c0af83063c23d48702f"
+hash-format = "sha512"
+hash = "3856914172fcf1521cb3ea77e0fc8d8c98b0fdd46cb09ac6dabc030a1ff852116a764d2c1a1aec45e322e8132e46ea013525ff758dce97e42987094505daf099"
 mode = "metadata:curseforge"
 
 [update]

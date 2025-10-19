@@ -3,8 +3,8 @@ filename = "Essential_1-3-9-2_forge_1-20-1.jar"
 side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "ba9380388b9f349b295494c548f16f68fc720156"
+hash-format = "sha512"
+hash = "2966a63b795d87785a1b20afa043b925cc66244731811342aa869d3c57899298a899cdc6a6d16f038e0fdefa150cca0f310d82ddb84415a4ec7940b0c87bc348"
 mode = "metadata:curseforge"
 
 [update]
@@ -14,5 +14,5 @@ project-id = 546670
 
 [option]
 optional = true
-default = true
 description = "goofy essential mod, you know what it does, ngl i cant find the other one so thats why that isnt here."
+default = true
