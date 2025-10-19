@@ -641,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "8061798f7f74d79cf22fbabfb51cbbd4ac17db0682577218adbdbaf39a769359"
+hash = "673fa488c9b7fa07d86e28d4f18658464edca1d9528d000017682e0960b90e37"
 metafile = true
 
 [[files]]
