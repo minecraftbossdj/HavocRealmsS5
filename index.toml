@@ -64,6 +64,11 @@ hash = "4e7f6bf74c49be0d5cef3288d7f6e2ae65edb796199dae02d7779fadd74dcd7b"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "bb3d9e5640c61e9d63cba49980846154de2509761607bfd7fbafd32ba502f910"
+metafile = true
+
+[[files]]
 file = "mods/apotheosis-modern-ragnarok.pw.toml"
 hash = "da6ab2761e2782ed54a64371a5a58288754352fc470625a74ce5c91a84f00381"
 metafile = true
@@ -94,6 +99,11 @@ hash = "323d1beb0d0a4197875c6ce08f7e73b663cd46bb31066488f3c671969ac32952"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "0e8ce30a7cffa832d7dca79abefe76c7c3b6194732155d65393c157130e11c59"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "6e0d2b223d1f25bc20ed996376b6fcd104ae2f9f5de1c853e319c366e6e6271d"
 metafile = true
@@ -105,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2868855bd6b90b1fad1c3210715fc403029f4e66368a7100854aed359005d2e4"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -191,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e3391364edc8e38f90c692b82dfd09a26c293c24d80b08c307417ac223029352"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -343,7 +353,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "72a867977697dce084eff67f425cf91feb0928e74fe9c5b5db9769f2bc98c074"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
@@ -446,6 +456,11 @@ hash = "9ba347f823ad69a733c675f30fd25eef528545f0bd06c291591c9f87c67910e7"
 metafile = true
 
 [[files]]
+file = "mods/functional-storage.pw.toml"
+hash = "0d719b8788c3e53940faa21383b51197049ab367fb25fd32aeea852f0a69ebdc"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "d1a80068e60ad005fe9914290934e7850f09cf4551ca50abc00d481a972b0aaa"
 metafile = true
@@ -511,6 +526,11 @@ hash = "abf7ab91d0204b2d9e3dd21c432ef12eeaa6c779d9a9648127a0388bd94826f7"
 metafile = true
 
 [[files]]
+file = "mods/item-collectors.pw.toml"
+hash = "8093ad3185e518632b971cd7c6068995d4c9c5c5d6acad2b74e135fdc6c83552"
+metafile = true
+
+[[files]]
 file = "mods/jade-vs.pw.toml"
 hash = "766d19c0f918ccd6848d1345a80adce27047ec694949667be8ca16b533cb91d0"
 metafile = true
@@ -532,6 +552,11 @@ hash = "c6de04f48f5e0ca58dd85fe6756735d751deebda61dac3935c12470b954df3cb"
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "5e8c6988b1a3e4edd1aefb16ba6a4eb4ea39c3ed1509e4cdac20f4ab866daf10"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "1676399bef87b7bc1bb1c8194e64a50a6dac0e1ee635b17e2d85b66e05d2c0b8"
 metafile = true
 
 [[files]]
@@ -600,6 +625,11 @@ hash = "793470bfcd589ba5dbf467cd71730093d95551668a2083a8019d78c38d402a48"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "cb6a545e5739fc0e5df919fd60d729cb20634c9febd29b133eca4f172d90aa97"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "9535232a166483b6fc8daafa25c7e431c2ed18f1ed9ae11fe2004db72fca68e6"
 metafile = true
@@ -607,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/modlistcmd76.pw.toml"
 hash = "96c36c16bc5207153b9523d6547a4541de9d4c2afff59593fdfd3daeafe8c10b"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "59ddb20cb1fddab5a1a0349e0452f5100c2bec8c51e746658553f92dc8239512"
 metafile = true
 
 [[files]]
@@ -713,7 +748,12 @@ metafile = true
 
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
-hash = "780477ee6cc8fba88ae71483f16b02718957f6af82abb8f6e56ecdbb91918e8b"
+hash = "1cf9cb3955b075664ea4fba13b47fe7160975740a28864983aebd53d39c1946e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "b969799c17defc1e7c76e4605557c9d32802a0004a5e45b7044e85d3d9c43345"
 metafile = true
 
 [[files]]
@@ -732,12 +772,17 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "a5665626229848aef63f7943294269ea54bc4d92c31cece942c04be687fd2af1"
+hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
 metafile = true
 
 [[files]]
 file = "mods/toms-peripherals.pw.toml"
 hash = "96d5df365dd4736e1d2de85cd4a5b93dedf86fff7f33456268d8c4dcd172eb0e"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "4a8a42c4c7834873a5f64f0f4e07eb46056329b345a1b835d8ea0aff2390fc0e"
 metafile = true
 
 [[files]]
@@ -824,6 +869,10 @@ hash = "5bc39b5709e405e277e3488fb2c9bb34f79061b5c4206b6df2fd62bd95b129f3"
 [[files]]
 file = "tacz/Applied Armorer-v1.1.4.1-for114+.zip"
 hash = "e52ddb8b6412951f9b79c9ed9a7521a849cef4192f19af4843a3392cdbcfc420"
+
+[[files]]
+file = "tacz/Cyber Armorer-1.1.4.3.1_for114.zip"
+hash = "773aed08866fd38435327a3ccf96241808d44389d40b54ff5ec8d2851403a8f5"
 
 [[files]]
 file = "tacz/[Tacz1.1.5+]EMX-Arms GunsPack ver1.1.5.zip.zip"
