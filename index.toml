@@ -205,6 +205,11 @@ hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
+file = "mods/cobblefordays.pw.toml"
+hash = "0156f093b5a9e07cba491de843e23c84bfb546b6a032ed5c3b364ede2ec15d1f"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "8bbd0419d6291516e7a638a80f4540770b7f19a7983f81fd0d2ffbdecc9d8142"
 metafile = true
